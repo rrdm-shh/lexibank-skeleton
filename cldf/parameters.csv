@@ -1,5 +1,5 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
-1_ski,Ski::N,2991,SKI
-2_twenty,zwanzig::NUM,1710,TWENTY
-3_leg,Bein::N,1297,LEG
-4_now,jetzt::ADV,1376,NOW
+1_tendon,Sehne::N,1137,TENDON
+2_bend,beugen::V,2004,BEND
+3_try,versuchen::V,1812,TRY
+4_iron,Eisen::N,621,IRON
