@@ -1,5 +1,5 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-Ket,Ket,kett1243,,,,,,
-Nganasan,Nganasan,ngan1291,,,,,,
-Tatar,Tatar,tata1255,,,,,,
-LuleSami,Lule Sami,lule1254,,,,,,
+Ket,Ket,kett1243,Ket,ket,Eurasia,63.7551,87.5466,Yeniseian
+Nganasan,Nganasan,ngan1291,Nganasan,nio,Eurasia,73.1354,86.2106,Uralic
+Tatar,Tatar,tata1255,Tatar,tat,Eurasia,55.0,50.0,Turkic
+LuleSami,Lule Sami,lule1254,Lule Saami,smj,Eurasia,67.2759,17.8057,Uralic
