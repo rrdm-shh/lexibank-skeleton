@@ -22,7 +22,7 @@ packaging==20.1
 pandas==0.25.3
 pluggy==0.13.1
 purl==1.5
-py==1.8.1
+py==1.10.0
 pybtex==0.22.2
 pycldf==1.10.0
 pyclts==2.0.0
