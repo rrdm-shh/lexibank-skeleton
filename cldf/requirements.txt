@@ -42,7 +42,7 @@ tabulate==0.8.6
 termcolor==1.1.0
 tqdm==4.42.0
 uritemplate==3.0.1
-urllib3==1.25.7
+urllib3==1.26.5
 wcwidth==0.1.8
 xlrd==1.2.0
 zipp==2.1.0
